@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a5b27824f237ddb47a1c7642c40c3a8b
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36292
+  packageName: YamlDotNet for Unity
+  packageVersion: 12.3.1
+  assetPath: Assets/YamlDotNet/Portability/readme.txt
+  uploadId: 555350

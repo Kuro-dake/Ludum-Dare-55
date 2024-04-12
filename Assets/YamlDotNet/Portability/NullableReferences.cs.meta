@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 27b4cc9905862e44ebfcea2e376c18c3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36292
+  packageName: YamlDotNet for Unity
+  packageVersion: 12.3.1
+  assetPath: Assets/YamlDotNet/Portability/NullableReferences.cs
+  uploadId: 555350

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 885d41fd1bd859d42b86367d5ab3cf83
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36292
+  packageName: YamlDotNet for Unity
+  packageVersion: 12.3.1
+  assetPath: Assets/YamlDotNet/Portability/netstandard2.0+netstandard2.1/include/ReflectionExtensions.cs
+  uploadId: 555350
